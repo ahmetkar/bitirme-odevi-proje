@@ -1,0 +1,206 @@
+<resources>
+    <string name="app_name">denemeApp2</string>
+
+    <string-array name="genelmodel_etiketler" >
+        <item>Paroksismal Pozisyonel Vertigo</item>
+        <item>AIDS</item>
+        <item>Akne</item>
+        <item>Alkolik hepatit</item>
+        <item>Alerji</item>
+        <item>Artrit</item>
+        <item>Bronşiyal astım</item>
+        <item>Servikal spondiloz(Boyun kireçlenmesi)</item>
+        <item>Su çiçeği</item>
+        <item>Kronik kolestaz</item>
+        <item>Nezle, soğuk algınlığı</item>
+        <item>Dang humması</item>
+        <item>Diyabet</item>
+        <item>Dimorfik hemoroidler (kazıklar)</item>
+        <item>İlaç Reaksiyonu</item>
+        <item>Mantar enfeksiyonu</item>
+        <item>GERD(Gastroözofageal Reflü Hastalığı)</item>
+        <item>Gastroenterit</item>
+        <item>Kalp krizi</item>
+        <item>Hepatit B</item>
+        <item> Hepatit C</item>
+        <item>Hepatit D</item>
+        <item> Hepatit E</item>
+        <item> Hipertansiyon</item>
+        <item> Hipertiroidizm</item>
+        <item> Hipoglisemi</item>
+        <item> Hipotiroidizm</item>
+        <item> İmpetigo</item>
+        <item> Sarılık</item>
+        <item> Sıtma</item>
+        <item> Migren</item>
+        <item> Osteoartrit(Kireçlenme)</item>
+        <item> Beyin kanaması</item>
+        <item>Peptik ülser hastalığı</item>
+        <item> Akciğer iltihaplanması</item>
+        <item> Sedef hastalığı</item>
+        <item>Tüberküloz</item>
+        <item> Tifo</item>
+        <item> İdrar yolu enfeksiyonu</item>
+        <item>Varisli damarlar</item>
+        <item>Hepatit A</item>
+    </string-array>
+
+    <string-array name="genelmodel_siniflar">
+        <item>Kaşıntı</item>
+        <item>Deri Döküntüsü</item>
+        <item>Şişlikler şeklinde ortaya çıkan deri döküntüleri</item>
+        <item>Sürekli Hapşırma</item>
+        <item>İstemsiz kas titremesi</item>
+        <item>Üşüme</item>
+        <item>Eklem Ağrısı</item>
+        <item>Karın Ağrısı</item>
+        <item>Asitlik</item>
+        <item>Dildeki Ülserler</item>
+        <item>Kas Erimesi</item>
+        <item>Kusma</item>
+        <item>Yanma hissiyle idrar yapmak</item>
+        <item>İdrar tutamamak</item>
+        <item>Anksiyete</item>
+        <item>Kilo Almak</item>
+        <item>Endişe</item>
+        <item>Soğuk Eller Ve Ayaklar</item>
+        <item>Ruh Halinde ani değişiklikler</item>
+        <item>Kilo Kaybı</item>
+        <item>Huzursuzluk</item>
+        <item>Bitkinlik</item>
+        <item>Boğazda görülen lekeler</item>
+        <item>Düzensiz Şeker Seviyesi</item>
+        <item>Öksürük</item>
+        <item>Yüksek Ateş</item>
+        <item>Batık Gözler</item>
+        <item>Nefes Darlığı</item>
+        <item>Terlemek</item>
+        <item>Dehidrasyon</item>
+        <item>Hazımsızlık</item>
+        <item>Baş Ağrısı</item>
+        <item>Sarımsı Cilt</item>
+        <item>Koyu İdrar</item>
+        <item>Mide Bulantısı</item>
+        <item>İştah Kaybı</item>
+        <item>Gözlerin Arkasındaki Ağrı</item>
+        <item>Sırt Ağrısı</item>
+        <item>Kabızlık</item>
+        <item>Karın Ağrısı</item>
+        <item>İshal</item>
+        <item>Hafif Ateş</item>
+        <item>Sarı İdrar</item>
+        <item>Gözlerin Sararması</item>
+        <item>Akut Karaciğer Yetmezliği</item>
+        <item>Vücutta sıvı birikmesi</item>
+        <item>Mide şişmesi</item>
+        <item>Şişmiş lenf düğümleri</item>
+        <item>Keyifsizlik</item>
+        <item>Bulanık Ve Bozuk Görüş</item>
+        <item>Balgam</item>
+        <item>Boğaz Tahrişi</item>
+        <item>Gözlerin Kızarıklığı</item>
+        <item>Sinüs Basıncı</item>
+        <item>Burun Akması</item>
+        <item>Tıkanıklık</item>
+        <item>Göğüs Ağrısı</item>
+        <item>Uzuvlarda Zayıflık</item>
+        <item>Hızlı Kalp Atış Hızı</item>
+        <item>Bağırsak Hareketleri Sırasında Ağrı</item>
+        <item>Anal Bölgede Ağrı</item>
+        <item>Kanlı Dışkı</item>
+        <item>Anüs Tahrişi</item>
+        <item>Boyun Ağrısı</item>
+        <item>Baş Dönmesi</item>
+        <item>Kramplar</item>
+        <item>Morarma</item>
+        <item>Obezite</item>
+        <item>Şişmiş Bacaklar</item>
+        <item>Şişmiş Kan Damarları</item>
+        <item>Şişmiş Yüz Ve Gözler</item>
+        <item>Genişlemiş Tiroid</item>
+        <item>Kırılgan Tırnaklar</item>
+        <item>Vücut uzuvlarında şişme</item>
+        <item>Aşırı Açlık</item>
+        <item>Evlilik Dışı Hastalık Kapma İhtimali</item>
+        <item>Dudakların Kuruması Ve Karıncalanması</item>
+        <item>Konuşma Bozukluğu</item>
+        <item>Diz Ağrısı</item>
+        <item>Kalça Eklemi Ağrısı</item>
+        <item>Kas Güçsüzlüğü</item>
+        <item>Boyun Tutulması</item>
+        <item>Eklemlerin Şişmesi</item>
+        <item>Vücutta hareket zorluğu</item>
+        <item>Dönme Hareketleri</item>
+        <item>Denge Kaybı</item>
+        <item>Dengesizlik</item>
+        <item>Vücudun Bir Tarafının Zayıflığı</item>
+        <item>Koku kaybı</item>
+        <item>Mesane Rahatsızlığı</item>
+        <item>İdrarın Kötü Kokusu</item>
+        <item>Sürekli İdrar Hissi</item>
+        <item>Gazların Geçişi</item>
+        <item>İç Kaşıntı</item>
+        <item>Genel olarak hastalıklı görünme (tifo)</item>
+        <item>Depresyon</item>
+        <item>Sinirlilik</item>
+        <item>Kas Ağrısı</item>
+        <item>Değiştirilmiş Duyu Organı</item>
+        <item>Vücutta Kırmızı Lekeler</item>
+        <item>Göbek Ağrısı</item>
+        <item>Anormal Adet Kanaması</item>
+        <item>Deride renk değişiklikleri</item>
+        <item>Gözlerden Sulanma</item>
+        <item>Iştah Artışı</item>
+        <item>Normalden fazla idrar yapma</item>
+        <item>Aile Öyküsü (Aileden geçebilecek hastalık var)</item>
+        <item>Mukoid Balgam</item>
+        <item>Paslı Balgam</item>
+        <item>Konsantrasyon Eksikliği</item>
+        <item>Görsel Rahatsızlıklar</item>
+        <item>Başkasından Kan Nakli Almak</item>
+        <item>Steril Olmayan Enjeksiyonlar Almak</item>
+        <item>Koma</item>
+        <item>Mide Kanaması</item>
+        <item>Karın Şişliği </item>
+        <item>Alkol Tüketimi Geçmişi</item>
+        <item>Aşırı Sıvı Yüklenmesi(hipervolemi)</item>
+        <item>Balgamda Kan</item>
+        <item>Baldırda Belirgin Damarlar</item>
+        <item>Çarpıntı</item>
+        <item>Ağrılı Yürüyüş</item>
+        <item>İrin Dolu Sivilceler</item>
+        <item>Siyah Noktalar</item>
+        <item>Acelecilik</item>
+        <item>Cilt Soyulması</item>
+        <item>Gümüş Tozuna Aşırı Maruz Kalma</item>
+        <item>Tırnaklarda Küçük Ezikler</item>
+        <item>İltihaplı Tırnaklar</item>
+        <item>Kabarcık</item>
+        <item>Burun Çevresinde Kırmızı Yara</item>
+        <item>Yara Etrafında Sarı Kabuk Sızıntısı</item>
+    </string-array>
+
+    <string-array name="diyabetmodel_siniflar">
+        <item>Hamile kalınan ay</item>
+        <item>Oral Glikoz Tolerans Testi (mg/dl) :</item>
+        <item>Diastolik Kan Basıncı Ölçümü(mmHg)</item>
+        <item>Kol inceliği(Triceps - mm) </item>
+        <item>Serum insülin testi :(mikro u/ml) </item>
+        <item>Vücut kitle indeksi </item>
+        <item>Yaş</item>
+    </string-array>
+    <string-array name="heartmodel_siniflar">
+        <item>Yaş</item>
+        <item>Cinsiyet</item>
+        <item>Göğüs ağrısı tipi</item>
+        <item>Dinlenme Kan Basıncı Ölçüm Sonucu(Diastolik)</item>
+        <item>Serum Kolesterol Ölçüm Sonucu</item>
+        <item>Açken ölçülen kan şekeri</item>
+        <item>Maksimum Kalp Atım Hızı</item>
+        <item>Egzersiz sırasında göğüs ağrısı varmı ?</item>
+    </string-array>
+
+    <string-array name="uygulama">
+        <item><string name="hakkinda">Uygulama hakkında birşeyler ..</string></item>
+    </string-array>
+</resources>
