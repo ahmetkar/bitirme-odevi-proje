@@ -292,9 +292,9 @@ class BackendHelper {
         fun init() : SupabaseClient? {
             try {
                 val supabase = createSupabaseClient(
-                    supabaseUrl = "https://vgiswykbebiiecuekyof.supabase.co",
-                    supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZnaXN3eWtiZWJpaWVjdWVreW9mIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDMwMzE1NzYsImV4cCI6MjAxODYwNzU3Nn0.o37VRqhCp2dmzGOGERfg8luixw9I5z4xi5qkx2TkVZc"
-                ) {
+                    supabaseUrl = "...",
+                    supabaseKey = "..."
+                ) 
                     install(Auth)
                     install(Postgrest)
                 }
